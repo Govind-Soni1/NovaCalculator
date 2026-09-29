@@ -1,0 +1,36 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# PyInstaller generated files
+build/
+dist/
+
+
+# Python packaging
+*.egg-info/
+.eggs/
+wheels/
+pip-wheel-metadata/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Environment variables and secrets
+.env
